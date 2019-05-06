@@ -20,6 +20,7 @@ It is quite clear to see that the Magnus force has a visible impact on the traje
 • When backspin is provided, the maximum height that the ball reaches becomes higher than the other trajectory models and the ball stays in the air for a longer time. However, this is only true when the x-component of the initial velocity is greater than its y-component.
 
 • When the y-component of the initial velocity is greater than its x-component, we observe similar time of flight to projectile motion yet the ball travels a much shorter distance due to the Magnus force and the air resistance. The same effect can be seen when the ball is provided a topspin rather than a backspin.
+
 • With topspin provided, we also observe much shorter flight time as the lift on the ball is now downwards (which actually deaccelerates the baseball). This also causes a shorter maximum height than all other cases as well as a much shorter distance traveled.
 
 Professional sportsmen use spins on their balls to gain control over the trajectory of the ball for their advantage. This could be seen in golf where players hit backspins to have better control over how far the ball will go and bounce, while baseball players use spins on the z axis to mislead the batter thinking the ball would go one way or another. This simulation agrees with these control techniques as spins provide a greater range of distance and time of flight.
