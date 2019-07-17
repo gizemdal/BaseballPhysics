@@ -33,4 +33,4 @@ https://www.seas.upenn.edu/~meam211/slides/aero.pdf
 
 Textbook: Computational Physics by Mark Newman
 
-![](reference/final.png)
+![](Gizem Dal poster.pdf)
