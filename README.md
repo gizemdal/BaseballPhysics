@@ -1,6 +1,8 @@
 ## Baseball Physics
 Python-based computational physics project that explores the physics behind the trajectory of a flying baseball
 
+Research Poster PDF can be seen [here](https://github.com/gizemdal/BaseballPhysics/blob/master/Gizem%20Dal%20poster.pdf)
+
 ## Background Information
 
 • The most simplified model of any flying object in Earth is called Projectile Motion in Vacuum where the object is only subject to gravity along the y-axis and no other forces are observed.
