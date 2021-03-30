@@ -1,7 +1,7 @@
-## Baseball Physics
+# Baseball Physics
 Python-based computational physics project that explores the physics behind the trajectory of a flying baseball
 
-Research Poster PDF can be seen [here](https://github.com/gizemdal/BaseballPhysics/blob/master/Gizem%20Dal%20poster.pdf)
+[Research Poster PDF](https://github.com/gizemdal/BaseballPhysics/blob/master/Gizem%20Dal%20poster.pdf)
 
 ## Background Information
 
@@ -13,7 +13,7 @@ A secondary complexity could be added by taking the Magnus force into account. S
 
 ## Techniques
 
-The physics behind calculating the trajectory of the baseball involved solving a second-order differential equation to find the changes in acceleration, velocity and position using the Runge-Kutta method as well as graphing these results with respect to time.
+The physics behind calculating the trajectory of the baseball involved solving a second-order differential equation to find the changes in acceleration, velocity and position using the Runge-Kutta method as well as graphing these results with respect to time. You can check out my [research poster](https://github.com/gizemdal/BaseballPhysics/blob/master/Gizem%20Dal%20poster.pdf) for more information.
 
 ## Results and Conclusion
 
